@@ -25,6 +25,7 @@ A full-stack pizza ordering application built using **React**, **Express**, and 
 cd padre-ginos-pizza
 npm install
 npm run dev
+``` 
 
 ## 📸 Screenshots
 
