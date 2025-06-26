@@ -29,13 +29,13 @@ npm run dev
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./assets/home.png)
+![Home Page](assets/home.png)
 
 ### 🛒 Order Page
-![Order Page](./assets/order.png)
+![Order Page](assets/order.png)
 
 ### 📜 Past Orders
-![Past Orders](./assets/pastorder.png)
+![Past Orders](assets/pastorder.png)
 
 ### ✉️ Contact Page
-![Contact Page](./assets/contact.png)
+![Contact Page](assets/contact.png)
